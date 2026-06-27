@@ -2,27 +2,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0D47A1,20:1565C0,40:1E88E5,60:42A5F5,80:64B5F6,100:90CAF9&text=Rachit%20Kumar%20Gupta&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 
-<h1>Artificial Intelligence & Data Science Undergraduate</h1>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1000&color=64B5F6&center=true&vCenter=true&width=820&lines=Data+Structures+%26+Algorithms;Database+Management+Systems;Data+Science;Machine+Learning;Full+Stack+Development;Always+Learning+New+Technologies"/>
 
 <br>
-
 <p>
 <img src="https://komarev.com/ghpvc/?username=rachitkumargupta&label=Profile+Views&style=for-the-badge&color=2196F3" />
 </p>
 
 </div>
 
-
 # 💫 About Me
 
-🎓 B.Tech Undergraduate in **Artificial Intelligence & Data Science**.
-
-💡 Passionate about exploring technology, researching new ideas, and building meaningful solutions. I enjoy connecting with people.
+🎓 B.Tech Undergraduate in **Artificial Intelligence & Data Science**.<br>
+💡 Passionate about exploring technologies, researching new ideas, and building meaningful solutions. I enjoy connecting with people.
 
 ### 🚀 Focus Areas
-
 - 📚 Data Structures & Algorithms
 - 🗄️ Database Management Systems
 - 📊 Data Science
@@ -30,16 +24,13 @@
 - 🌐 Full Stack Development
 
 ### 💡 Core Strengths
-
 - 🧠 Analytical Thinking
 - 🎯 Strategic Problem Solving
 - 🔬 Research & Exploration
 - 📈 Data-Driven Mindset
 - 🤝 Collaboration
-- 📖 Continuous Learning
 
 ### 🏆 Highlights
-
 - 🎖️ GATE DA 2026 Qualified
 - 🏅 INSPIRE MANAK Awardee
 
