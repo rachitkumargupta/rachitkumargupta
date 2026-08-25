@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<a href="https://react.dev/" target="_blank">
+<!-- <a href="https://react.dev/" target="_blank">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
@@ -62,7 +62,7 @@
 
 <a href="https://expressjs.com/" target="_blank">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
